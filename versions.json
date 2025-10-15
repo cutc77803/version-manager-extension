@@ -1,0 +1,5 @@
+[
+  { "version": "v1.0.0", "client": "客户A", "note": "正式版" },
+  { "version": "v1.1.2", "client": "客户B", "note": "修复补丁" },
+  { "version": "v2.0.0", "client": "客户C", "note": "全新架构" }
+]
